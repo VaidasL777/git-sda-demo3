@@ -8,6 +8,7 @@ public class PrinterWCounter{
                 System.out.println(i);
             }
         }
+//nieko nekeisciam
     }
 }
 
